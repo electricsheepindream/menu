@@ -36,3 +36,4 @@ _build
 .pydevproject
 .settings/
 *.idea
+virtualenv/*
