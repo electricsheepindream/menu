@@ -1,1 +1,1 @@
-"web: gunicorn DjangoField.wsgi:application"
+web: gunicorn DjangoField.wsgi
