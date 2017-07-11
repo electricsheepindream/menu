@@ -1,1 +1,1 @@
-"web: gunicorn menu-menu.wsgi"
+"web: gunicorn DjangoField.wsgi"
